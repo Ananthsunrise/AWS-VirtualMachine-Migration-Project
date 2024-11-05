@@ -1,0 +1,10 @@
+[
+  {
+    "Description": "Your VM description",
+    "Format": "ova",
+    "UserBucket": {
+      "S3Bucket": "your-bucket-name",
+      "S3Key": "your-file.ova"
+    }
+  }
+]
